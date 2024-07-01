@@ -1,0 +1,1 @@
+sizeof(ara)/sizeof(int);
